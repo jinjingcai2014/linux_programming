@@ -1,0 +1,5 @@
+
+long  getLong(const  char  *arg,  int flags  const char *name)
+{
+	return getNum("getLong", arg, flags, name);
+}
